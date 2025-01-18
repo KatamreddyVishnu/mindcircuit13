@@ -15,6 +15,8 @@ Welcome to **MindCircuitr13**, a collection of hands-on practices and projects i
   - Deploying to EKS using ArgoCD.
 - **GitHub Link**: [https://github.com/KatamreddyVishnu/mindcircuit13](#)
 
+![image](https://github.com/user-attachments/assets/928d0c7a-d158-410d-bde3-ea0a826f359a)
+
 
 
 ---
